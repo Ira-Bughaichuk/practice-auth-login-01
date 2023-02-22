@@ -22,3 +22,10 @@ export const logoutUsers = async () => {
   token.unSet();
   return data;
 };
+export const getCurrentUsers = async accessToken => {
+  const { data } = await authAxios.get('/users/current', {
+    headers: { Authorization: `Bearer ${accessToken}` },
+  });
+  token.set(data.token);
+  return data;
+};
