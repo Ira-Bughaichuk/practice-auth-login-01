@@ -1,13 +1,13 @@
 {
   "files": {
-    "main.css": "/practice-auth-login-01/static/css/main.7acaea2f.css",
-    "main.js": "/practice-auth-login-01/static/js/main.07d3183d.js",
+    "main.css": "/practice-auth-login-01/static/css/main.6490a0b5.css",
+    "main.js": "/practice-auth-login-01/static/js/main.588c797c.js",
     "index.html": "/practice-auth-login-01/index.html",
-    "main.7acaea2f.css.map": "/practice-auth-login-01/static/css/main.7acaea2f.css.map",
-    "main.07d3183d.js.map": "/practice-auth-login-01/static/js/main.07d3183d.js.map"
+    "main.6490a0b5.css.map": "/practice-auth-login-01/static/css/main.6490a0b5.css.map",
+    "main.588c797c.js.map": "/practice-auth-login-01/static/js/main.588c797c.js.map"
   },
   "entrypoints": [
-    "static/css/main.7acaea2f.css",
-    "static/js/main.07d3183d.js"
+    "static/css/main.6490a0b5.css",
+    "static/js/main.588c797c.js"
   ]
 }
